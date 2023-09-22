@@ -2,7 +2,7 @@
 ##
 <div align="center">
   <a href="https://github.com/gabriellyzgoda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlespsc&show_icons=true&theme=jolly"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellyzgoda&show_icons=true&theme=jolly"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellyzgoda&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 
@@ -17,6 +17,5 @@
   ##
   
 <div>
-<a href="https://discord.gg/sb8Bsqu" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/gabriellyzgoda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
