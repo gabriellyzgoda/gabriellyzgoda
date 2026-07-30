@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/gabriellyzgoda">
-    ![GitHub stats](https://github-readme-stats-gaby-az-7.vercel.app/api?username=gabriellyzgoda&show_icons=true&theme=jolly&count_private=true&include_all_commits=true&v=1)
-    ![Top languages](https://github-readme-stats-gaby-az-7.vercel.app/api/top-langs/?username=gabriellyzgoda&layout=compact&langs_count=7&theme=jolly&v=1)
+    <img height="160em" alt="GitHub stats" src="https://github-readme-stats-gaby-az-7.vercel.app/api?username=gabriellyzgoda&show_icons=true&theme=jolly&count_private=true&include_all_commits=true&v=1"/>
+    <img height="160em" alt="Top languages" src="https://github-readme-stats-gaby-az-7.vercel.app/api/top-langs/?username=gabriellyzgoda&layout=compact&langs_count=7&theme=jolly&v=1"/>
   </a>
 </div>
 
