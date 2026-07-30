@@ -1,7 +1,5 @@
 ### Olá! Bem vindo ao meu GitHub 👋
 
-##
-
 <div align="center">
   <a href="https://github.com/gabriellyzgoda">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabriellyzgoda&show_icons=true&theme=jolly&count_private=true&include_all_commits=true"/>
@@ -9,7 +7,7 @@
   </a>
 </div>
 
-##
+---
 
 <div><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,7 +16,7 @@
   <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 
-##
+---
 
 <div>
 <a href="https://www.linkedin.com/in/gabrielly-zgoda/" target="_blank">
