@@ -2,14 +2,14 @@
 
 <div align="center">
   <a href="https://github.com/gabriellyzgoda">
-    <img height="160em" src="https://github-readme-stats-gaby-az-7.vercel.app/api?username=gabriellyzgoda&show_icons=true&theme=jolly&count_private=true&include_all_commits=true"/>
-    <img height="160em" src="https://github-readme-stats-gaby-az-7.vercel.app/api/top-langs/?username=gabriellyzgoda&layout=compact&langs_count=7&theme=jolly"/>
+    <img height="160em" src="https://github-readme-stats-gaby-az-7.vercel.app/api?    username=gabriellyzgoda&show_icons=true&theme=jolly&count_private=true&include_all_commits=true&v=1"/>
+    <img height="160em" src="https://github-readme-stats-gaby-az-7.vercel.app/api/top-langs/?username=gabriellyzgoda&layout=compact&langs_count=7&theme=jolly&v=1"/>
   </a>
 </div>
 
 ---
-
-<div><br>
+<br>
+<div>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
